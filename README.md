@@ -6,8 +6,8 @@ It is a CS model for processing remote sensing images, the datasets include SARB
 downlaod the all codes and datasets, then run training.py
 
 ## Result
-![iamge](MLCS/figs/result.png)
+![iamge](/figs/result.png)
 
-![image](MLCS/figs/para.png)
+![image](/figs/para.png)
 
-![image](MLCS/figs/details.png)
+![image](/figs/details.png)
