@@ -3,7 +3,7 @@
 It is a CS model for processing remote sensing images, the datasets include SARBUD1.0 https://www.ygxb.ac.cn/thesis/91/25459647/zh/, SHIP-SAR dataset https://aistudio.baidu.com/aistudio/datasetdetail/54361 and UC Merced Land use dataset http://weegee.vision.ucmerced.edu/datasets/landuse.html. 
 
 ## How to use
-downlaod the all codes and datasets, then run training.py
+download the all codes and datasets, then run training.py
 
 ## Result
 ![iamge](/figs/result.png)
